@@ -1,1 +1,1 @@
-0-alias create new alias
+1-hello_you print the current user
