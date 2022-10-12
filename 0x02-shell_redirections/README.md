@@ -3,3 +3,4 @@ Shell Redirection
 '1-confused_smiley' display a confused smaile
 '2-hellofile' displaces the content of '/etc/passwd' file
 '4-lastlines' displays the last ten lines of a file
+'5-fistlines' displays the first ten line of a file
