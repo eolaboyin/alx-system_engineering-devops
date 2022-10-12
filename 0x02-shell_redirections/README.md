@@ -4,3 +4,4 @@ Shell Redirection
 '2-hellofile' displaces the content of '/etc/passwd' file
 '4-lastlines' displays the last ten lines of a file
 '5-fistlines' displays the first ten line of a file
+'6-third_line' displays the third line of a file
